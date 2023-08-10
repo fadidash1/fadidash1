@@ -1,4 +1,4 @@
-Title: Highly Skilled Junior Front End Developer with Expertise in Java, JavaScript, SQL, MySQL, React, Angular, Next, HTML, and CSS, Offering Virtual Assistance Solutions
+Junior Front End Developer with Expertise in Java, JavaScript, SQL, MySQL, React, Angular, Next, HTML, and CSS, Offering Virtual Assistance Solutions
 
 👋 Hi there,
 
