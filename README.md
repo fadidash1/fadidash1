@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **albitaref@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1K8EFqv-qkk_bXZ-77TICpCJ3FucSS1z-?usp=drive_link](https://drive.google.com/drive/folders/1K8EFqv-qkk_bXZ-77TICpCJ3FucSS1z-?usp=drive_link)
+- 📄 Know about my experiences [See my resume](https://drive.google.com/drive/folders/1K8EFqv-qkk_bXZ-77TICpCJ3FucSS1z-?usp=drive_link)
 
 - ⚡ Fun fact **I Like to write all to learn anything at any time**
 
