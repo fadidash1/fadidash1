@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [See my resume](https://shorturl.at/NPQ19)
 
-- ⚡ Fun fact **I Like to write all to learn anything at any time**
+- ⚡ Fun fact **I Like to write and to learn anything at any time every experience is needed one day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
