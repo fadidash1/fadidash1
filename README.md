@@ -21,7 +21,6 @@ Sono un Freelancer di Digital Marketing e Sviluppo Web con la passione di aiutar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fadialbitar" target="_blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,12 +37,6 @@ Progetto e sviluppo siti web reattivi e facili da usare che mettono in mostra il
 ### Ottimizzazione per i Motori di Ricerca (SEO)
 Ottimizzo i siti web per posizionarli più in alto nei risultati dei motori di ricerca, aumentando la visibilità e il traffico organico.
 
-## Portfolio
-### Progetto 1
-Descrizione del Progetto 1...
-
-### Progetto 2
-Descrizione del Progetto 2...
 
 ## Competenze
 * HTML5
