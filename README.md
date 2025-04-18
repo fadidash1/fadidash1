@@ -1,53 +1,58 @@
-# Fadi Albitar - Digital Marketing & Web Development Freelancer
+# Fadi Albitar  
+### *Digital Marketing & Web Development Freelancer*
 
-## Chi Sono
-![Fadi Albitar](your-photo.jpg)
+---
 
-Sono un Freelancer di Digital Marketing e Sviluppo Web con la passione di aiutare le aziende a crescere online. Offro una gamma di servizi per soddisfare le tue esigenze digitali.
+## 👤 Chi Sono
 
-<div align="center">
-<h1 align="center">Hi 👋, I'm Fadi Albitar</h1>
-<h3 align="center">A passionate Full stack web developer</h3>
+Ciao! Sono Fadi Albitar, un Freelancer nel campo del Digital Marketing e dello Sviluppo Web, con una missione ben precisa: aiutare brand e aziende a brillare nel mondo digitale. Lavoro con passione per trasformare idee in risultati concreti, attraverso strategie digitali su misura e soluzioni web innovative.
 
-<p align="left">  </p>
+---
 
-<p align="left">  </p>
+## 👋 Hi, I'm Fadi Albitar  
+### 💻 A Passionate Full Stack Web Developer & Digital Marketing Specialist
 
-<ul>
-<li>🔭 I'm currently working on **My portfolio**</li>
-<li>📫 How to reach me **albitaref@gmail.com**</li>
-<li>⚡ Fun fact **I Like to write and to learn anything at any time**</li>
-</ul>
+- 🔭 Attualmente sto lavorando al mio **portfolio digitale**
+- 📫 Scrivimi: **albitaref@gmail.com**
+- ⚡ Curiosità: adoro scrivere, apprendere nuove competenze e affrontare sfide creative ogni giorno
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  </p>
-</div>
+## 🛠️ Languages & Tools
 
-## Servizi
-### Social Media Marketing
-Aiuto le aziende a costruire una forte presenza sui social media attraverso la creazione di contenuti, la gestione della community e la pubblicità mirata.
+HTML5 • CSS3 • JavaScript • React • SEO • Social Media Management • Canva • Figma • WordPress
 
-### Sviluppo Web
-Progetto e sviluppo siti web reattivi e facili da usare che mettono in mostra il tuo marchio e guidano i risultati.
+---
 
-### Ottimizzazione per i Motori di Ricerca (SEO)
-Ottimizzo i siti web per posizionarli più in alto nei risultati dei motori di ricerca, aumentando la visibilità e il traffico organico.
+## 💼 Servizi Offerti
 
+### 📱 Social Media Marketing  
+Costruisco strategie su misura per potenziare la tua presenza online, creare contenuti d’impatto, gestire la community e lanciare campagne pubblicitarie performanti.
 
-## Competenze
-* HTML5
-* CSS3
-* JavaScript
-* React
-* SEO
-* Gestione dei Social Media
+### 🌐 Sviluppo Web  
+Progetto e sviluppo siti web responsive, moderni e ottimizzati per la conversione, in linea con la tua brand identity.
 
-## Contatti
-Email: albitaref@gmail.com
-Telefono: +39 371 658 0667
+### 🚀 Ottimizzazione SEO  
+Rendo il tuo sito visibile sui motori di ricerca, migliorandone il posizionamento e portando traffico organico di qualità.
 
-&copy; 2025 Fadi Albitar. Tutti i diritti riservati.
+---
+
+## 🧠 Competenze Tecniche
+
+- HTML5 / CSS3  
+- JavaScript / React  
+- Responsive Design  
+- SEO & Analytics  
+- Gestione Social Media  
+- Branding & UI/UX
+
+---
+
+## 📬 Contatti
+
+- **Email:** albitaref@gmail.com  
+- **Telefono:** +39 371 658 0667
+
+---
+
+© 2025 Fadi Albitar. Tutti i diritti riservati.
